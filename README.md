@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=250&section=header&text=kz&fontSize=70&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Data%20Science%20%7C%20DevOps&descAlignY=60&descSize=18" width="100%" />
+
 # kz
 
 **IT Student • Data Science • DevOps • Minecraft Network Systems**
@@ -79,7 +81,24 @@ I’m an **IT student specialized in Data Science** with strong interest in:
 <img src="https://img.shields.io/badge/Jupyter-1E293B?style=for-the-badge&logo=jupyter&logoColor=93C5FD" />
 <img src="https://img.shields.io/badge/Research-1E293B?style=for-the-badge&logo=readthedocs&logoColor=93C5FD" />
 
+### Tools I Work With
+<img src="https://img.shields.io/badge/Discord-1E293B?style=for-the-badge&logo=discord&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Cloudflare_DNS-1E293B?style=for-the-badge&logo=cloudflare&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Domain_Management-1E293B?style=for-the-badge&logo=namecheap&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Systemd-1E293B?style=for-the-badge&logo=linux&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/VS_Code-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=93C5FD" />
+
 </div>
+
+---
+
+## What I Build
+
+- Minecraft servers and network infrastructure  
+- Deployment-ready hosting environments  
+- DNS / proxy / protection-ready setups  
+- Backend integrations and automation workflows  
+- Community platforms, stores, and structured systems  
 
 ---
 
@@ -100,4 +119,14 @@ I’m an **IT student specialized in Data Science** with strong interest in:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kz&style=for-the-badge&color=3B82F6" />
+</div>
+
+---
+
+<div align="center">
+
+### Motto
+
+*Build clearly. Scale properly. Keep it reliable.*
+
 </div>
